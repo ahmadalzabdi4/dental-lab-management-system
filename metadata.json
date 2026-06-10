@@ -1,0 +1,6 @@
+{
+  "name": "معمل العلوي لتقنية الأسنان",
+  "description": "نظام لإدارة معمل العلوي لتقنية الأسنان، لتتبع الأطباء والفنيين والطلبات والمدفوعات والمصروفات والتقارير اليومية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

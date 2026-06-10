@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- السن الأيسر (الكحلي الداكن من الشعار) -->
+    <path
+        android:pathData="M 54,30 C 42,18 24,28 28,58 C 30,68 39,81 44,87 C 46,90 49,90 50,84 C 52,75 52,58 52,53 C 46,45 49,38 49,28 Z"
+        android:strokeColor="#0E1B2F"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- السن الأيمن العلوي (الذهبي الساطع من الشعار) -->
+    <path
+        android:pathData="M 54,30 C 66,18 84,28 80,48"
+        android:strokeColor="#FAC015"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- السن الأيمن السفلي (البرتقالي الدافئ لتبني الجذور) -->
+    <path
+        android:pathData="M 80,48 C 77,58 72,73 68,84 C 67,87 64,90 62,87 C 61,85 61,78 62,68"
+        android:strokeColor="#EA580C"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- الموجة الديناميكية المنحنية (الأزرق السماوي الزاهي للمعمل) -->
+    <path
+        android:pathData="M 23,35 C 31,70 45,77 62,55 C 77,40 102,65 110,48"
+        android:strokeColor="#0284C7"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+        
+</vector>
